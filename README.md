@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bharat-singh-rawat-99321b2a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakpokhriyal2001" height="30" width="40" /></a>
 <a href="https://instagram.com/_bharatrwt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepakpokhriyal2001" height="30" width="40" /></a>
-<a href="https://kaggle.com/bharatsinghrawat" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F14124%2Fkaggle&psig=AOvVaw2idKvrraGH-wiTTRdMzcXr&ust=1728024127079000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDbpJfO8YgDFQAAAAAdAAAAABAE" alt="bharatsinghrawat" height="30" width="40" /></a>
+<a href="https://kaggle.com/bharatsinghrawat" target="blank"><img align="center" src="https://images.app.goo.gl/FReA2xGnrhZtH5VAA" alt="bharatsinghrawat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
