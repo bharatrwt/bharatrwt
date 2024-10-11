@@ -18,7 +18,9 @@
 <a href="https://https://www.w3schools.com/datascience/" target="_blank" rel="noreferrer"> <img src="https://media.assettype.com/analyticsinsight%2F2024-07%2F28d904be-ce9b-4043-9392-7e30e077c362%2F7_Benefits_of_Data_Science.jpg" alt="data science" width="80" height="40"/> </a> 
 <a href="https://https://www.w3schools.com/python/python_ml_getting_started.asp" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYTN25GEP0YxpZ_b1Sy0qc3r4xfKNIMmeh0Q&s" alt="machine learning" width="80" height="40"/></a> 
 <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R Programming" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0K1-NTvITu0gnWAHfVxVs49-LeFNS8aaFsA&s" alt="My SQL" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0K1-NTvITu0gnWAHfVxVs49-LeFNS8aaFsA&s" alt="My SQL" width="40" height="40"/> </a>
+<a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/" target="_blank" rel="noreferrer"> <img src="https://app.dropinblog.com/uploaded/blogs/34249715/files/featured/jupyter_notebook.png" alt="My SQL" width="40" height="40"/> </a> 
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatrwt&show_icons=true&locale=en&layout=compact" alt="bharatrwt" /></p>
